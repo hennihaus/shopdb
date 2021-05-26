@@ -1,33 +1,5 @@
 [{
   "_id": {
-    "$oid": "609fd36e5a03fd2afc8edff8"
-  },
-  "firstname": "Jan-Hendrik",
-  "lastname": "Hausner",
-  "street": "Am Großhausberg 8",
-  "postcode": "78120",
-  "city": "Furtwangen im Schwarzwald",
-  "country": "Deutschland",
-  "phone": "015736009259",
-  "email": "jan-hendrik.hausner@outlook.com",
-  "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "609fd5a85a03fd2afc8edff9"
-  },
-  "firstname": "Henni",
-  "lastname": "Haus",
-  "street": "Am Großhausberg 8",
-  "postcode": "78120",
-  "city": "Furtwangen im Schwarzwald",
-  "country": "Deutschland",
-  "phone": "015736009259",
-  "email": "henni.haus.rd@tutanota.com",
-  "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "__v": 0
-},{
-  "_id": {
     "$oid": "609fea045a03fd2afc8edffa"
   },
   "firstname": "h",
