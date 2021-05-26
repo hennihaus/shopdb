@@ -3,7 +3,6 @@ services:
   db:
     image: mongo:4.4.3
     volumes:
-      - /data/db
       - ./init:/docker-entrypoint-initdb.d
     ports:
       - 8000:27017
