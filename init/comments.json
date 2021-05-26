@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "60a35a1c6d9d9f4b547ae114"
+  },
+  "comment": "Tolles Produkt!",
+  "rating": 2,
+  "articleId": {
+    "$oid": "6060ba305213cbed34885620"
+  },
+  "date": "17.5.2021",
+  "userId": {
+    "$oid": "609fec205a03fd2afc8edffb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a35b196d9d9f4b547ae115"
+  },
+  "comment": "Tolles Produkt!",
+  "rating": 3,
+  "articleId": {
+    "$oid": "6060ba305213cbed34885620"
+  },
+  "date": "16.5.2021",
+  "userId": {
+    "$oid": "60a25c51c6327c2f147bc048"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a35d3a6d9d9f4b547ae118"
+  },
+  "comment": "Tolles Produkt",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060baf85213cbed34885622"
+  },
+  "date": "18.5.2021",
+  "userId": {
+    "$oid": "609fec205a03fd2afc8edffb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a37d986d9d9f4b547ae11d"
+  },
+  "comment": "Tolles Produkt!",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060ba305213cbed34885620"
+  },
+  "date": "18.5.2021",
+  "userId": {
+    "$oid": "60a25c7ac6327c2f147bc049"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a390446d9d9f4b547ae125"
+  },
+  "comment": "Schlecht!",
+  "rating": 0,
+  "articleId": {
+    "$oid": "6060ba305213cbed34885620"
+  },
+  "date": "18.5.2021",
+  "userId": {
+    "$oid": "60a390276d9d9f4b547ae122"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3c4e7def2901afc36f058"
+  },
+  "comment": "tolloes proddokt",
+  "rating": 4,
+  "articleId": {
+    "$oid": "6060c0525213cbed34885629"
+  },
+  "date": "18.5.2021",
+  "userId": {
+    "$oid": "60a25c51c6327c2f147bc048"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a7c986d2ded00f84818d95"
+  },
+  "comment": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "rating": 0,
+  "articleId": {
+    "$oid": "6060ba305213cbed34885620"
+  },
+  "date": "21.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a82177d2ded00f84818d9d"
+  },
+  "comment": "Toller Artikel!",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060bc585213cbed34885626"
+  },
+  "date": "21.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a8ad869c68f22e20685b73"
+  },
+  "comment": "Tolles Produkt!",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060baf85213cbed34885622"
+  },
+  "date": "22.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60aa263e9c68f22e20685b7a"
+  },
+  "comment": "Toll!",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060bb6f5213cbed34885623"
+  },
+  "date": "23.5.2021",
+  "userId": {
+    "$oid": "60aa249f9c68f22e20685b77"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab473557fff006ec9c3821"
+  },
+  "comment": "Tolles Produkt!",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060c4225213cbed3488563c"
+  },
+  "date": "24.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab477f57fff006ec9c3822"
+  },
+  "comment": "Tolles Produkt!",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060c3e05213cbed3488563b"
+  },
+  "date": "24.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab477f57fff006ec9c3823"
+  },
+  "comment": "Tolles Produkt!",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060c3e05213cbed3488563b"
+  },
+  "date": "24.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab47d357fff006ec9c3824"
+  },
+  "comment": "Tolles Produkt!",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060c3b95213cbed3488563a"
+  },
+  "date": "24.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab47d357fff006ec9c3825"
+  },
+  "comment": "Tolles Produkt!",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060c3b95213cbed3488563a"
+  },
+  "date": "24.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab4a0f57fff006ec9c382a"
+  },
+  "comment": "Tolles Produkt!",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060c3835213cbed34885639"
+  },
+  "date": "24.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab4b0757fff006ec9c382b"
+  },
+  "comment": "T",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060c33c5213cbed34885638"
+  },
+  "date": "24.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab4b0757fff006ec9c382c"
+  },
+  "comment": "T",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060c33c5213cbed34885638"
+  },
+  "date": "24.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab4b5757fff006ec9c382d"
+  },
+  "comment": "T",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060c32c5213cbed34885637"
+  },
+  "date": "24.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab4b5757fff006ec9c382e"
+  },
+  "comment": "T",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060c32c5213cbed34885637"
+  },
+  "date": "24.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab4c4057fff006ec9c382f"
+  },
+  "comment": "Tolles Produkt!",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060c3155213cbed34885636"
+  },
+  "date": "24.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab4eae57fff006ec9c383e"
+  },
+  "comment": "Tolles Produkt!",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060c2d35213cbed34885635"
+  },
+  "date": "24.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60abbb8757fff006ec9c3844"
+  },
+  "comment": "Tolles Produkt!",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060c2995213cbed34885634"
+  },
+  "date": "24.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad32f5ba8066236c146120"
+  },
+  "comment": "Super Toll!",
+  "rating": 5,
+  "articleId": {
+    "$oid": "6060ba305213cbed34885620"
+  },
+  "date": "25.5.2021",
+  "userId": {
+    "$oid": "60ad30c5ba8066236c146111"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ad3641ba8066236c146129"
+  },
+  "comment": "Tolles Produkt!",
+  "rating": 4,
+  "articleId": {
+    "$oid": "6060c09f5213cbed3488562b"
+  },
+  "date": "25.5.2021",
+  "userId": {
+    "$oid": "60a5e29cdef2901afc36f063"
+  },
+  "__v": 0
+}]
